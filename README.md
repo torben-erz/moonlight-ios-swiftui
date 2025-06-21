@@ -1,7 +1,5 @@
 # Moonlight iOS (tvOS removed!)
 
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/kwv8vpwr457lqn25/branch/master?svg=true)](https://ci.appveyor.com/project/cgutman/moonlight-ios/branch/master)
-
 [Moonlight for iOS with SwiftUI](https://moonlight-stream.org) is an open source client for [Sunshine](https://github.com/LizardByte/Sunshine) and NVIDIA GameStream. Moonlight for iOS with SwiftUI allows you to stream your full collection of games and apps from your powerful desktop computer to your iOS device.
 
 This is an intermediate step towards the planned visionOS version using SwiftUI. The main goal is to completely remove Auto Layout. As a first step, tvOS support was removed from this project to focus on iOS and iPadOS. The ultimate goal is a full port to visionOS.
