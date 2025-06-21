@@ -8,8 +8,6 @@ This is an intermediate step towards the planned visionOS version using SwiftUI.
 
 Check out [the Moonlight wiki](https://github.com/moonlight-stream/moonlight-docs/wiki) for more detailed project information, setup guide, or troubleshooting steps.
 
-Original Git: [![Moonlight for iOS and tvOS](https://moonlight-stream.org/images/App_Store_Badge_135x40.svg)](https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566)
-
 ## Building
 * Install Xcode from the [App Store page](https://apps.apple.com/us/app/xcode/id497799835)
 * Run `git clone --recursive https://github.com/torben-erz/moonlight-ios-swiftui.git`
